@@ -1,5 +1,9 @@
-<h2 data-importer="text" align="left">Hi 👋! My name is Abdo, and I'm a software engineer</h2>
+Hi 👋 I'm Abdallah Bengriche
 
+🎓 Third-year Computer Science Student
+💻 Aspiring Full-Stack Developer
+🤖 Interested in AI Integration & Backend Development
+🇩🇿 Based in Algeria
 ###
 
 <div data-importer="stats" align="center">
