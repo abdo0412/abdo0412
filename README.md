@@ -2,21 +2,13 @@
 
 <br clear="both">
 
-<!-- Main Section: Stats Cards Left, Chibi Character Right -->
 <div align="center">
   <table border="0" cellpadding="0" cellspacing="0">
     <tr>
       <td valign="top" align="center">
-        <!-- Main Stats Card (Switched to vercel API to pull your actual account stats) -->
         <img src="https://github-readme-stats.vercel.app/api?username=abdo0412&show_icons=true&count_private=true&theme=tokyonight" height="150" alt="stats graph" />
-        
-        <!-- Top Languages Card (Commented out because there are no repos yet. Delete "<!--" and "-->" to activate later!) -->
-        <!-- 
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdo0412&layout=compact&theme=tokyonight&card_width=320" height="150" alt="languages graph" /> 
-        -->
       </td>
       <td valign="top" align="right" style="padding-left: 20px;">
-        <!-- Chibi Character Image aligned perfectly to the right side of the stats -->
         <img data-importer="image" height="150" src="https://i.pinimg.com/474x/48/d3/2f/48d32f1534aa24f1700fa606f495b4c4.jpg" />
       </td>
     </tr>
@@ -26,7 +18,6 @@
 <br clear="both">
 <hr />
 
-<!-- Tech Stack Section (Centered for a cleaner balance) -->
 <div data-importer="techs" align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
   <img width="15" />
@@ -53,7 +44,6 @@
 
 <br />
 
-<!-- Socials Section (Centered right beneath the Tech Stack) -->
 <div data-importer="socials" align="center">
   <a href="https://www.instagram.com/abdellah_bengriche/?hl=en" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
@@ -75,14 +65,12 @@
 <hr />
 <br />
 
-<!-- Snake Animation (Linked to the "output" branch created by the workflow) -->
 <div align="center">
   <img data-importer="snake" src="https://raw.githubusercontent.com/abdo0412/abdo0412/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <br />
 
-<!-- Visitor Counter -->
 <div data-importer="profile-views" align="center">
   <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=abdo0412.abdo0412&" />
 </div>
