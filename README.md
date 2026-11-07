@@ -2,12 +2,12 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=550&lines=4th-Year+Computer+Science+Student;Full-Stack+%26+Backend+Developer;Building+AI-Driven+Web+Applications;Always+Learning+%26+Open+for+Opportunities" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=550&lines=4th-Year+Computer+Science+Student;Backend+%26+AI+Engineering;Learning+in+Public;Always+Learning+%26+Open+for+Opportunities" alt="Typing SVG" />
   </a>
 </div>
 
 <p align="center">
-  🎓 <b>4th-Year Computer Science Student</b> &bull; 💻 <b>Aspiring Full-Stack & Backend Engineer</b> &bull; 🇩🇿 <b>Based in Algeria</b>
+  🎓 <b>4th-Year Computer Science Student</b> &bull; 💻 <b>Aspiring Backend & AI Engineer</b> &bull; 🇩🇿 <b>Based in Algeria</b>
 </p>
 
 <p align="center">
@@ -30,7 +30,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Education:** 4th-year Computer Science student focused on software engineering and AI integration.
-- 🚀 **What I Do:** Build full-stack applications with clean architecture, robust backend APIs, and modern responsive frontends.
+- 🚀 **What I Do:** Learning to build backend services and to put ML models inside them. Most of my work so far is university projects, and I'm working on the gap to production-style code (tests, CI, deployment).
 - 🔬 **Interests:** Machine Learning pipelines, RESTful APIs, MVC/system architecture, and modern JavaScript/TypeScript ecosystems.
 - 💼 **Looking For:** Software engineering internships and junior developer opportunities where I can solve real-world problems.
 
@@ -94,15 +94,15 @@
     </td>
     <td width="50%" valign="top">
       <h4>📊 <a href="https://github.com/abdo0412/loan-approval-prediction">loan-approval-prediction</a></h4>
-      <p>End-to-end ML classification pipeline on 45K applications. Benchmarks Logistic Regression, Random Forest, NN, and XGBoost (<b>0.973 ROC-AUC</b>).</p>
+      <p>University team project: ML classification pipeline on 45K applications. Benchmarks Logistic Regression, Random Forest, NN, and XGBoost (<b>0.973 ROC-AUC</b>).</p>
       <p><b>Tech:</b> <code>Python</code> &bull; <code>XGBoost</code> &bull; <code>Scikit-learn</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🐄 <a href="https://github.com/abdo0412/Anicar">Anicar</a></h4>
-      <p>Livestock health and diagnostics tracking platform designed for veterinarians and farmers.</p>
-      <p><b>Tech:</b> <code>Python</code> &bull; <code>Full-Stack</code> &bull; <code>Health Tracking</code></p>
+      <h4>🐄 Anicar <sub>(private, in progress)</sub></h4>
+      <p>Livestock health platform for veterinarians and farmers, being rebuilt from a monolith into Django microservices with Docker, PostgreSQL and Consul service discovery.</p>
+      <p><b>Tech:</b> <code>Django</code> &bull; <code>Docker</code> &bull; <code>PostgreSQL</code> &bull; <code>Consul</code></p>
     </td>
     <td width="50%" valign="top">
       <h4>🧮 <a href="https://github.com/abdo0412/mvc-calculator-java">mvc-calculator-java</a></h4>
